@@ -4,7 +4,7 @@ import { ChatRoom } from "./components/ChatRoom";
 import io from "socket.io-client";
 import { Route, Routes, useNavigate } from "react-router-dom";
 
-const socket = io("http://localhost:9999");
+const socket = io("https://evening-bayou-76191.herokuapp.com/");
 
 function App() {
   let navigate = useNavigate();
