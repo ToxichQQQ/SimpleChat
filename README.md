@@ -27,7 +27,7 @@ In the process of writing the chat application, I got acquainted with new techno
 
 ## Testing
 
-To test the game, you need to enter the following commands:
+To test the chat, you need to enter the following commands:
 
 You need to clone the repository using the command:
  
